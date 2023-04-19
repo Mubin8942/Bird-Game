@@ -1,16 +1,10 @@
-# birdgame
+# BirdGame
 
-A new Flutter project.
+A Simple Flappy Bird Game. This project use Flutter and Dart Code
 
-## Getting Started
+##ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![localhost_12640_(Pixel 5)](https://user-images.githubusercontent.com/95767150/233194546-449a41bf-3304-41ac-bf36-59551290522b.png)
+#
+#
+![localhost_12640_(Pixel 5) (1)](https://user-images.githubusercontent.com/95767150/233194560-3cd37ce1-8c39-439e-a27d-27cdcd15c67b.png)
