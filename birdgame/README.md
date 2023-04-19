@@ -2,7 +2,7 @@
 
 A Simple Flappy Bird Game. This project use Flutter and Dart Code
 
-##ScreenShots
+# ScreenShots
 
 ![localhost_12640_(Pixel 5)](https://user-images.githubusercontent.com/95767150/233194546-449a41bf-3304-41ac-bf36-59551290522b.png)
 #
